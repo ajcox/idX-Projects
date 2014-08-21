@@ -1,2 +1,3 @@
 idX-Projects
 ============
+This is a little about the project...
